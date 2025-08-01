@@ -1595,6 +1595,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		display: inline-block;
 		background-color: #222222;
+		border-radius: 25px;
 		color: #ffffff;
 		border: 0;
 		cursor: pointer;

@@ -162,6 +162,11 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+	/* Custom rule to hide gallery captions on the main page */
+.hidden-caption {
+    display: none;
+}
+
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
